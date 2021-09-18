@@ -1,0 +1,6 @@
+[submodule "Picon_kicad/RP_Silicon_KiCad"]
+	path = Picon_kicad/RP_Silicon_KiCad
+	url = https://github.com/speedypotato/RP_Silicon_KiCad.git
+[submodule "Picon_kicad/Type-C.pretty"]
+	path = Picon_kicad/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty.git
